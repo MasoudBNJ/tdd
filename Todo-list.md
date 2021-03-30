@@ -10,4 +10,12 @@ Money rounding
 
 Override dollar hashCode
 
-5 franc * 2 = 10 franc
+~~5 franc * 2 = 10 franc~~
+
+Dollar/Franc duplication
+
+~~Common equals~~
+
+Common times
+
+Compare francs to Dollar
