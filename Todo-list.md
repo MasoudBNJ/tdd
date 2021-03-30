@@ -6,4 +6,4 @@ Make "amount" private
 
 Money rounding
 
-Dollar side-effects? (dollar changes by javan)
+~~Dollar side-effects? (dollar changes by javan)~~
