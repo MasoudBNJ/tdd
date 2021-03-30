@@ -7,3 +7,5 @@ Make "amount" private
 Money rounding
 
 ~~Dollar side-effects? (dollar changes by javan)~~
+
+Override dollar hashCode
